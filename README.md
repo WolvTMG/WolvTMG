@@ -1,5 +1,5 @@
-Discord - WolvTMG#0766
+# Coding Languages I know / Learning - (Python / C# / HTML / Lua)
 
-Website - https://tmgmidvite.com
+* ` Discord - WolvTMG#0766`
+* ` Website - https://tmgmidvite.com`
 
-(Python / C# / HTML)
