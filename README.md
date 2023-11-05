@@ -1,6 +1,6 @@
 ## WolvTMG's Github (Python / C# / HTML / CSS)
 
-* ` Discord - WolvTMG#0001`
+* ` Discord - WolvTMG`
 * ` Website - https://tmgmidvite.com`
 
 ```sh-session
