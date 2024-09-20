@@ -1,4 +1,4 @@
-## WolvTMG's Github (Python / C# / HTML / CSS)
+## TMG
 
 * ` Discord - WolvTMG`
 * ` Website - https://tmgmidvite.com`
